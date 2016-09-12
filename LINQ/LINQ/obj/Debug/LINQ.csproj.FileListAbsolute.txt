@@ -4,3 +4,9 @@ C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\LINQ\LINQ\LINQ\bin\Debug\LINQ.pdb
 C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\LINQ\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
 C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\LINQ\LINQ\LINQ\obj\Debug\LINQ.exe
 C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\LINQ\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Sheng\Documents\Sheng\My GitHub\vansx001.FunctionalProgramming\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Sheng\Documents\Sheng\My GitHub\vansx001.FunctionalProgramming\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Sheng\Documents\Sheng\My GitHub\vansx001.FunctionalProgramming\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Sheng\Documents\Sheng\My GitHub\vansx001.FunctionalProgramming\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Sheng\Documents\Sheng\My GitHub\vansx001.FunctionalProgramming\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Sheng\Documents\Sheng\My GitHub\vansx001.FunctionalProgramming\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache

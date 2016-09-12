@@ -21,8 +21,8 @@ namespace LINQ
                Console.WriteLine("\nThe word is: " + word);
 
             //Query 
-            word = string.Concat(word.ToUpper().OrderBy(az => az));
-            var letterFrequency = word
+            var letterFrequency = word.ToUpper()
+                .OrderBy(az => az)
                 .GroupBy(character => character)
                 .Select(count => new { Char = count.Key, Count = count.Count() });
 
